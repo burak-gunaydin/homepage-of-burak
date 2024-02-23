@@ -7,5 +7,4 @@ The dashboards I designed for my IT assignment can be found here:
 The dashboard for the Airbnb dataset:
 https://public.tableau.com/app/profile/burak.gunaydin/viz/DatavisualizationairbnbNYC/Dashboard1
 
-The dashboard for the superstore performance dataset:
-https://public.tableau.com/app/profile/burak.gunaydin/viz/PerformancevisualizationSuperstoreU_S_/Superstoredashboard
+The dashboard for the superstore performance dataset: https://public.tableau.com/app/profile/burak.gunaydin/viz/PerformancevisualizationSuperstoreU_S_/Superstoredashboard
