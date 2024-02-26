@@ -1,4 +1,4 @@
-# homepage-of-burak
+# Homepage for Burak's IT assignment documents
 Here you'll find documents to the projects I did for my IT assignment portfolio.
 ##
 The dashboards I designed for my IT assignment can be accessed by clicking on the following links:
@@ -14,3 +14,6 @@ The datasets for the superstore dashboard can be downloaded from my page as well
 
 Regarding the Airbnb dataset I have uploaded the raw uncleaned dataset as well as the cleaned up dataset.
 The raw dataset is 'Airbnb_NYC_RAW.csv' and the cleaned up dataset is named 'Airbnb_NYC_Cleaned.xlsx'.
+
+##
+For a description of the 
