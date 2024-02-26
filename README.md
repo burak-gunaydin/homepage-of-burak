@@ -1,5 +1,5 @@
 # homepage-of-burak
-This is where you can find documents to the projects I did for my IT assignment portfolio.
+Here you'll find documents to the projects I did for my IT assignment portfolio.
 
 The dashboards I designed for my IT assignment can be accessed by clicking on the following links:
 
@@ -8,4 +8,6 @@ https://public.tableau.com/app/profile/burak.gunaydin/viz/Datavisualizationairbn
 
 Superstore dataset: https://public.tableau.com/app/profile/burak.gunaydin/viz/PerformancevisualizationSuperstoreU_S_/Superstoredashboard
 
-The datasets for the superstore dashboard can be downloaded from my page. The same goes for as well as the cleaned up dataset as the raw dataset for the Airbnb dashboard.
+The datasets for the superstore dashboard can be downloaded from my page as well. The three datasets are named 'superstore_people.csv', 'superstore_performance.csv' and 'superstore_returns.csv''.
+Regarding the Airbnb dataset I have uploaded the raw uncleaned dataset as well as the cleaned up dataset.
+The raw dataset is named 'Airbnb_NYC_RAW.csv' and the cleaned up dataset is named 'Airbnb_NYC_Cleaned.xlsx'.
