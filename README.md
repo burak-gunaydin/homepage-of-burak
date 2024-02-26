@@ -17,4 +17,3 @@ The raw dataset is 'Airbnb_NYC_RAW.csv' and the cleaned up dataset is named 'Air
 ##
 For a description of the tasks I performed from the cleaning aspect up to the visualization aspect you can find these in the document called 'Walkthrough IT assignment.docx'
 ##
-I hope you enjoy!
