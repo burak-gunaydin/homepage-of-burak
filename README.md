@@ -14,8 +14,6 @@ The datasets for the superstore dashboard can be downloaded from my page as well
 
 Regarding the Airbnb dataset I have uploaded the raw uncleaned dataset as well as the cleaned up dataset.
 The raw dataset is 'Airbnb_NYC_RAW.csv' and the cleaned up dataset is named 'Airbnb_NYC_Cleaned.xlsx'.
-
 ##
 For a description of the tasks I performed from the cleaning aspect up to the visualization aspect you can find these in the document called 'Walkthrough IT assignment.docx'
-##
-I hope you enjoy!
+
